@@ -1,4 +1,4 @@
-package ems.member;
+package testPjt.ems.member;
 
 public class DataBaseConnectionInfo {
 	

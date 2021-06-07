@@ -1,4 +1,4 @@
-package ems.member.assembler;
+package testPjt.ems.member.assembler;
 
 import ems.member.dao.StudentDao;
 import ems.member.service.StudentAllSelectService;
